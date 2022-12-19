@@ -1,0 +1,54 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 70vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 40s linear;
+  }
+}
+
+/* align-items: center;
+  background-color: #282c34;
+  background: linear-gradient(transparent,transparent),url(https://drenwal.com/static/media/Drenwal-World-Map-v7_3-frameless.5686e0c355eec1d9542b.jpg) no-repeat;
+  background-position: 50%;
+  background-size: cover;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  justify-content: center;
+  min-height: 100vh;
+  position: relative; */
+
+
+.App-header {
+  align-items: center;
+  background-position: 50%;
+  background-size: cover;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 1vmin);
+  font-weight: 900;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
