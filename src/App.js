@@ -24,7 +24,7 @@ function App() {
             <p><a href='https://www.figma.com/proto/uZsyGlBBoL0EGW9TDDCUxd/My-CV-at-joshuamuster.com?page-id=0%3A1&node-id=1%3A462&viewport=733%2C518%2C0.9&scaling=min-zoom' target='_blank' rel='noreferrer'>Joshua Muster's CV</a></p>
           </Col>
           <Col>
-            <iframe title='Figma CV' className='figmaEmbed' width='842' height='600' src='https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FuZsyGlBBoL0EGW9TDDCUxd%2FMy-CV-at-joshuamuster.com%3Fpage-id%3D0%253A1%26node-id%3D1%253A462%26viewport%3D733%252C518%252C0.9%26scaling%3Dmin-zoom' allowfullscreen='true' frameborder="0" ></iframe>
+            <iframe title='Figma CV' className='figmaEmbed' width='842' height='600' src='https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FuZsyGlBBoL0EGW9TDDCUxd%2FMy-CV-at-joshuamuster.com%3Fpage-id%3D0%253A1%26node-id%3D1%253A462%26viewport%3D733%252C518%252C0.9%26scaling%3Dmin-zoom&hide-ui=1' allowfullscreen='true' frameborder="0" ></iframe>
           </Col>
         </Row>
       </Container>
