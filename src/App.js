@@ -19,7 +19,7 @@ function App() {
         <Row>
           <Col>
             <p>I don't have any major plans for the site, but I mean, when you see your name is available, you gotta swoop on it, right?</p>
-            <p>So here's an embed of my CV on Figma, and I'll gussy up the page soon.</p>
+            <p>So here's an embed of my CV on Figma, and I'll gussy up the page soon. "I swear it will be done."</p>
             <p>Or a link, if that works better for you.</p>
             <p><a href='https://www.figma.com/proto/uZsyGlBBoL0EGW9TDDCUxd/My-CV-at-joshuamuster.com?page-id=0%3A1&node-id=1%3A462&viewport=733%2C518%2C0.9&scaling=min-zoom' target='_blank' rel='noreferrer'>Joshua Muster's CV</a></p>
           </Col>
